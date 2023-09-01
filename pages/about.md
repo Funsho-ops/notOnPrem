@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-# About
+# About 
 
 This is a [starter template](https://vsoch.github.io/docsy-jekyll/) for a Docsy jekyll theme, based
 on the Beautiful [Docsy](https://github.com/google/docsy) that renders with Hugo. This version is intended for
@@ -11,5 +11,4 @@ native deployment on GitHub pages. See the [repository]({{ site.repo }}) for mor
 
 ## Support
 
-If you need help, please don't hesitate to [open an issue](https://www.github.com/{{ site.github_user }}/{{ site.github_repo }}).
-
+If you need help, please don't hesitate to [open an issue](<https://www.github.com/{{> site.github_user }}/{{ site.github_repo }}).
